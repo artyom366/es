@@ -47,19 +47,19 @@ public class CenterComponent {
 		
 		prev.setMinWidth(50);
 		prev.setLayoutX(340);
-		prev.setLayoutY(475);
+		prev.setLayoutY(460);
 		
 		next.setMinWidth(50);
 		next.setLayoutX(410);
-		next.setLayoutY(475);
+		next.setLayoutY(460);
 		
 		progressBar.setMinWidth(200);
 		progressBar.setProgress(0);
 		progressBar.setLayoutX(300);
-		progressBar.setLayoutY(517);
+		progressBar.setLayoutY(500);
 		
 		reset.setMinWidth(50);
-		reset.setLayoutX(736);
+		reset.setLayoutX(734);
 		reset.setLayoutY(530);
 		
 		center.getChildren().add(subTitle);
